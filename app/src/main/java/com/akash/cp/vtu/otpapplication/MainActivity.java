@@ -177,6 +177,8 @@ public class MainActivity extends AppCompatActivity{
                 if(text.length()==0)
                     et3.requestFocus();
                 break;*//*
+
+                hjhgjghjghjgh
         }
 */
     }
